@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DOOM_XD.aternos.me",
-    "port": 50337,
+    "ip": "doomxd.aternos.me",
+    "port": 52904,
     "version": "",
     "try-creative": false
   },
